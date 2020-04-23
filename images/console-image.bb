@@ -19,7 +19,6 @@ DEV_EXTRAS = " \
 "
 
 RPI_STUFF = " \
-    omxplayer \
     raspi2fb \
     userland \
 "
